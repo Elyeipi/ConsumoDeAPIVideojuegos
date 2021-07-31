@@ -5,5 +5,9 @@
 #search:hover {
     transition: .3s;
     border-color: tomato!important;
+    color: beige;
 }
 
+.container-date{
+    color: beige;
+}
