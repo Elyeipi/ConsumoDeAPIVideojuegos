@@ -11,3 +11,7 @@
 .container-date{
     color: beige;
 }
+
+.container{
+    border: white solid 2px;
+}
